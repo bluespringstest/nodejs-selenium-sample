@@ -21,10 +21,10 @@ const webdriver = require('selenium-webdriver');
 */
 
 // username: Username can be found at automation dashboard
-const USERNAME = '{username}';
+const USERNAME = 'insync.dan.test';
 
 // AccessKey:  AccessKey can be generated from automation dashboard or profile section
-const KEY = '{accessKey}';
+const KEY = 'CrGTymABwk3c04Wc4vhsu2CZGyF8I6O0oJqytBtEatKfcmAeBd';
 
 // gridUrl: gridUrl can be found at automation dashboard
 const GRID_HOST = 'hub.lambdatest.com/wd/hub';
